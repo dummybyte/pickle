@@ -5,7 +5,7 @@ import dao.RateLimiterDao;
 import lombok.AllArgsConstructor;
 
 import java.util.List;
-
+// Request Handler class
 @AllArgsConstructor
 public class RequestHandler {
 
